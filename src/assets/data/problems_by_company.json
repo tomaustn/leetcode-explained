@@ -505,254 +505,1984 @@
     ],
     "Google": [
         {
-            "title": "Expressive Words",
-            "id": 827,
+            "title": "Two Sum",
+            "id": 1,
             "rank": 1
         },
         {
-            "title": "Delete Nodes And Return Forest",
-            "id": 1207,
-            "rank": 2
-        },
-        {
-            "title": "Two Sum",
-            "id": 1,
-            "rank": 3
-        },
-        {
-            "title": "Split Array into Consecutive Subsequences",
-            "id": 659,
-            "rank": 4
-        },
-        {
-            "title": "Minimum Window Subsequence",
-            "id": 727,
+            "title": "Longest Substring Without Repeating Characters",
+            "id": 3,
             "rank": 5
         },
         {
-            "title": "Compare Strings by Frequency of the Smallest Character",
-            "id": 1273,
-            "rank": 6
-        },
-        {
-            "title": "Logger Rate Limiter",
-            "id": 359,
-            "rank": 7
-        },
-        {
-            "title": "Design Search Autocomplete System",
-            "id": 642,
-            "rank": 8
-        },
-        {
-            "title": "Validate Stack Sequences",
-            "id": 983,
+            "title": "Zigzag Conversion",
+            "id": 6,
             "rank": 9
         },
         {
-            "title": "Student Attendance Record II",
-            "id": 552,
-            "rank": 10
-        },
-        {
-            "title": "Optimal Account Balancing",
-            "id": 465,
-            "rank": 11
-        },
-        {
-            "title": "Max Sum of Rectangle No Larger Than K",
-            "id": 363,
-            "rank": 12
-        },
-        {
-            "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
-            "id": 1549,
+            "title": "Reverse Integer",
+            "id": 7,
             "rank": 13
         },
         {
-            "title": "Split Array Largest Sum",
-            "id": 410,
-            "rank": 14
-        },
-        {
-            "title": "Campus Bikes",
-            "id": 1052,
-            "rank": 15
-        },
-        {
-            "title": "Count Complete Tree Nodes",
-            "id": 222,
-            "rank": 16
-        },
-        {
-            "title": "Flip Equivalent Binary Trees",
-            "id": 988,
+            "title": "Palindrome Number",
+            "id": 9,
             "rank": 17
         },
         {
-            "title": "Bulls and Cows",
-            "id": 299,
-            "rank": 18
-        },
-        {
-            "title": "Count of Smaller Numbers After Self",
-            "id": 315,
-            "rank": 19
-        },
-        {
-            "title": "24 Game",
-            "id": 679,
-            "rank": 20
-        },
-        {
-            "title": "Snapshot Array",
-            "id": 1249,
+            "title": "Container With Most Water",
+            "id": 11,
             "rank": 21
         },
         {
-            "title": "Longest Line of Consecutive One in Matrix",
-            "id": 562,
-            "rank": 22
-        },
-        {
-            "title": "Encode and Decode Strings",
-            "id": 271,
-            "rank": 23
-        },
-        {
-            "title": "Maximum Points You Can Obtain from Cards",
-            "id": 1538,
-            "rank": 24
-        },
-        {
-            "title": "Sequence Reconstruction",
-            "id": 444,
+            "title": "Roman to Integer",
+            "id": 13,
             "rank": 25
         },
         {
-            "title": "Maximal Square",
-            "id": 221,
-            "rank": 26
+            "title": "Longest Common Prefix",
+            "id": 14,
+            "rank": 29
+        },
+        {
+            "title": "3Sum",
+            "id": 15,
+            "rank": 33
+        },
+        {
+            "title": "4Sum",
+            "id": 18,
+            "rank": 37
+        },
+        {
+            "title": "Valid Parentheses",
+            "id": 20,
+            "rank": 41
+        },
+        {
+            "title": "Remove Duplicates from Sorted Array",
+            "id": 26,
+            "rank": 45
+        },
+        {
+            "title": "Remove Element",
+            "id": 27,
+            "rank": 49
+        },
+        {
+            "title": "Next Permutation",
+            "id": 31,
+            "rank": 53
+        },
+        {
+            "title": "Search in Rotated Sorted Array",
+            "id": 33,
+            "rank": 57
+        },
+        {
+            "title": "Trapping Rain Water",
+            "id": 42,
+            "rank": 61
+        },
+        {
+            "title": "Pow(x, n)",
+            "id": 50,
+            "rank": 65
+        },
+        {
+            "title": "Merge Intervals",
+            "id": 56,
+            "rank": 69
+        },
+        {
+            "title": "Climbing Stairs",
+            "id": 70,
+            "rank": 73
+        },
+        {
+            "title": "Sort Colors",
+            "id": 75,
+            "rank": 77
         },
         {
             "title": "Maximal Rectangle",
             "id": 85,
-            "rank": 27
+            "rank": 81
         },
         {
-            "title": "My Calendar I",
-            "id": 729,
-            "rank": 28
+            "title": "Merge Sorted Array",
+            "id": 88,
+            "rank": 85
         },
         {
-            "title": "Candy Crush",
-            "id": 723,
-            "rank": 29
+            "title": "Check if Word Can Be Placed In Crossword",
+            "id": 2018,
+            "rank": 89
         },
         {
-            "title": "Backspace String Compare",
-            "id": 874,
-            "rank": 30
+            "title": "Binary Tree Maximum Path Sum",
+            "id": 124,
+            "rank": 93
         },
         {
-            "title": "Text Justification",
-            "id": 68,
-            "rank": 31
+            "title": "Longest Consecutive Sequence",
+            "id": 128,
+            "rank": 97
         },
         {
-            "title": "Insert Interval",
-            "id": 57,
-            "rank": 32
+            "title": "LRU Cache",
+            "id": 146,
+            "rank": 101
         },
         {
-            "title": "Random Pick with Weight",
-            "id": 912,
-            "rank": 33
+            "title": "Majority Element",
+            "id": 169,
+            "rank": 105
         },
         {
-            "title": "Divide Array in Sets of K Consecutive Numbers",
-            "id": 1422,
-            "rank": 34
+            "title": "Find All Possible Recipes from Given Supplies",
+            "id": 2115,
+            "rank": 109
         },
         {
-            "title": "Design Hit Counter",
-            "id": 362,
-            "rank": 35
+            "title": "Rotate Array",
+            "id": 189,
+            "rank": 113
         },
         {
-            "title": "License Key Formatting",
-            "id": 482,
-            "rank": 36
+            "title": "Number of Islands",
+            "id": 200,
+            "rank": 117
+        },
+        {
+            "title": "Reverse Linked List",
+            "id": 206,
+            "rank": 121
+        },
+        {
+            "title": "Contains Duplicate",
+            "id": 217,
+            "rank": 125
+        },
+        {
+            "title": "Sliding Window Maximum",
+            "id": 239,
+            "rank": 129
+        },
+        {
+            "title": "Valid Anagram",
+            "id": 242,
+            "rank": 133
+        },
+        {
+            "title": "Longest Increasing Subsequence",
+            "id": 300,
+            "rank": 137
+        },
+        {
+            "title": "Burst Balloons",
+            "id": 312,
+            "rank": 141
+        },
+        {
+            "title": "The Earliest Moment When Everyone Become Friends",
+            "id": 1101,
+            "rank": 145
         },
         {
             "title": "Moving Average from Data Stream",
             "id": 346,
-            "rank": 37
+            "rank": 149
+        },
+        {
+            "title": "Logger Rate Limiter",
+            "id": 359,
+            "rank": 153
         },
         {
             "title": "Decode String",
             "id": 394,
-            "rank": 38
+            "rank": 157
         },
         {
-            "title": "Evaluate Division",
-            "id": 399,
-            "rank": 39
+            "title": "Longest Repeating Character Replacement",
+            "id": 424,
+            "rank": 161
         },
         {
-            "title": "Strobogrammatic Number III",
-            "id": 248,
-            "rank": 40
+            "title": "Maximum Average Subarray I",
+            "id": 643,
+            "rank": 165
         },
         {
-            "title": "Time Needed to Inform All Employees",
+            "title": "Find the Safest Path in a Grid",
+            "id": 2812,
+            "rank": 169
+        },
+        {
+            "title": "Recyclable and Low Fat Products",
+            "id": 1757,
+            "rank": 173
+        },
+        {
+            "title": "Koko Eating Bananas",
+            "id": 875,
+            "rank": 177
+        },
+        {
+            "title": "Random Pick with Weight",
+            "id": 528,
+            "rank": 181
+        },
+        {
+            "title": "Finding MK Average",
+            "id": 1825,
+            "rank": 185
+        },
+        {
+            "title": "Minimum Area Rectangle",
+            "id": 939,
+            "rank": 189
+        },
+        {
+            "title": "Maximum Width Ramp",
+            "id": 962,
+            "rank": 193
+        },
+        {
+            "title": "Odd Even Jump",
+            "id": 975,
+            "rank": 197
+        },
+        {
+            "title": "Search Insert Position",
+            "id": 35,
+            "rank": 201
+        },
+        {
+            "title": "Add Two Numbers",
+            "id": 2,
+            "rank": 205
+        },
+        {
+            "title": "Median of Two Sorted Arrays",
+            "id": 4,
+            "rank": 209
+        },
+        {
+            "title": "Longest Palindromic Substring",
+            "id": 5,
+            "rank": 213
+        },
+        {
+            "title": "String to Integer (atoi)",
+            "id": 8,
+            "rank": 217
+        },
+        {
+            "title": "3Sum Closest",
+            "id": 16,
+            "rank": 221
+        },
+        {
+            "title": "Letter Combinations of a Phone Number",
+            "id": 17,
+            "rank": 225
+        },
+        {
+            "title": "Generate Parentheses",
+            "id": 22,
+            "rank": 229
+        },
+        {
+            "title": "Swap Nodes in Pairs",
+            "id": 24,
+            "rank": 233
+        },
+        {
+            "title": "Single Element in a Sorted Array",
+            "id": 540,
+            "rank": 237
+        },
+        {
+            "title": "Find the Index of the First Occurrence in a String",
+            "id": 28,
+            "rank": 241
+        },
+        {
+            "title": "Diameter of Binary Tree",
+            "id": 543,
+            "rank": 245
+        },
+        {
+            "title": "Longest Valid Parentheses",
+            "id": 32,
+            "rank": 249
+        },
+        {
+            "title": "Capacity To Ship Packages Within D Days",
+            "id": 1011,
+            "rank": 253
+        },
+        {
+            "title": "Number of Provinces",
+            "id": 547,
+            "rank": 257
+        },
+        {
+            "title": "Combination Sum",
+            "id": 39,
+            "rank": 261
+        },
+        {
+            "title": "First Missing Positive",
+            "id": 41,
+            "rank": 265
+        },
+        {
+            "title": "Jump Game II",
+            "id": 45,
+            "rank": 269
+        },
+        {
+            "title": "Permutations",
+            "id": 46,
+            "rank": 273
+        },
+        {
+            "title": "Subarray Sum Equals K",
+            "id": 560,
+            "rank": 277
+        },
+        {
+            "title": "Group Anagrams",
+            "id": 49,
+            "rank": 281
+        },
+        {
+            "title": "Rotate Image",
+            "id": 48,
+            "rank": 285
+        },
+        {
+            "title": "N-Queens",
+            "id": 51,
+            "rank": 289
+        },
+        {
+            "title": "Maximum Subarray",
+            "id": 53,
+            "rank": 293
+        },
+        {
+            "title": "Spiral Matrix",
+            "id": 54,
+            "rank": 297
+        },
+        {
+            "title": "Jump Game",
+            "id": 55,
+            "rank": 301
+        },
+        {
+            "title": "Insert Interval",
+            "id": 57,
+            "rank": 305
+        },
+        {
+            "title": "Unique Paths",
+            "id": 62,
+            "rank": 309
+        },
+        {
+            "title": "Plus One",
+            "id": 66,
+            "rank": 313
+        },
+        {
+            "title": "Add Binary",
+            "id": 67,
+            "rank": 317
+        },
+        {
+            "title": "Running Sum of 1d Array",
+            "id": 1480,
+            "rank": 321
+        },
+        {
+            "title": "Sqrt(x)",
+            "id": 69,
+            "rank": 325
+        },
+        {
+            "title": "Find Customer Referee",
+            "id": 584,
+            "rank": 329
+        },
+        {
+            "title": "Search a 2D Matrix",
+            "id": 74,
+            "rank": 333
+        },
+        {
+            "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+            "id": 1509,
+            "rank": 337
+        },
+        {
+            "title": "Largest Rectangle in Histogram",
+            "id": 84,
+            "rank": 341
+        },
+        {
+            "title": "Reverse Linked List II",
+            "id": 92,
+            "rank": 345
+        },
+        {
+            "title": "Pascal's Triangle",
+            "id": 118,
+            "rank": 349
+        },
+        {
+            "title": "Best Time to Buy and Sell Stock",
+            "id": 121,
+            "rank": 353
+        },
+        {
+            "title": "Valid Palindrome",
+            "id": 125,
+            "rank": 357
+        },
+        {
+            "title": "Gas Station",
+            "id": 134,
+            "rank": 361
+        },
+        {
+            "title": "Single Number",
+            "id": 136,
+            "rank": 365
+        },
+        {
+            "title": "Word Break",
+            "id": 139,
+            "rank": 369
+        },
+        {
+            "title": "House Robber",
+            "id": 198,
+            "rank": 373
+        },
+        {
+            "title": "Happy Number",
+            "id": 202,
+            "rank": 377
+        },
+        {
+            "title": "Range Module",
+            "id": 715,
+            "rank": 381
+        },
+        {
+            "title": "Course Schedule",
+            "id": 207,
+            "rank": 385
+        },
+        {
+            "title": "Maximal Square",
+            "id": 221,
+            "rank": 389
+        },
+        {
+            "title": "Snapshot Array",
+            "id": 1146,
+            "rank": 393
+        },
+        {
+            "title": "Basic Calculator",
+            "id": 224,
+            "rank": 397
+        },
+        {
+            "title": "Create Hello World Function",
+            "id": 2667,
+            "rank": 401
+        },
+        {
+            "title": "Meeting Rooms II",
+            "id": 253,
+            "rank": 405
+        },
+        {
+            "title": "To Be Or Not To Be",
+            "id": 2704,
+            "rank": 409
+        },
+        {
+            "title": "Unique Number of Occurrences",
+            "id": 1207,
+            "rank": 413
+        },
+        {
+            "title": "Find Median from Data Stream",
+            "id": 295,
+            "rank": 417
+        },
+        {
+            "title": "Score of a String",
+            "id": 3110,
+            "rank": 421
+        },
+        {
+            "title": "Coin Change",
+            "id": 322,
+            "rank": 425
+        },
+        {
+            "title": "Add Two Integers",
+            "id": 2235,
+            "rank": 429
+        },
+        {
+            "title": "Intersection of Two Arrays",
+            "id": 349,
+            "rank": 433
+        },
+        {
+            "title": "Russian Doll Envelopes",
+            "id": 354,
+            "rank": 437
+        },
+        {
+            "title": "Merge Strings Alternately",
+            "id": 1768,
+            "rank": 441
+        },
+        {
+            "title": "Guess the Word",
+            "id": 843,
+            "rank": 445
+        },
+        {
+            "title": "Insert Delete GetRandom O(1)",
+            "id": 380,
+            "rank": 449
+        },
+        {
+            "title": "Split Array Largest Sum",
+            "id": 410,
+            "rank": 453
+        },
+        {
+            "title": "Partition Equal Subset Sum",
+            "id": 416,
+            "rank": 457
+        },
+        {
+            "title": "Frequency of the Most Frequent Element",
+            "id": 1838,
+            "rank": 461
+        },
+        {
+            "title": "Create a DataFrame from List",
+            "id": 2877,
+            "rank": 465
+        },
+        {
+            "title": "Relative Ranks",
+            "id": 506,
+            "rank": 469
+        },
+        {
+            "title": "Linked List Cycle",
+            "id": 141,
+            "rank": 473
+        },
+        {
+            "title": "Reverse Words in a String",
+            "id": 151,
+            "rank": 477
+        },
+        {
+            "title": "Regular Expression Matching",
+            "id": 10,
+            "rank": 481
+        },
+        {
+            "title": "Merge k Sorted Lists",
+            "id": 23,
+            "rank": 485
+        },
+        {
+            "title": "Find Peak Element",
+            "id": 162,
+            "rank": 489
+        },
+        {
+            "title": "Fraction to Recurring Decimal",
+            "id": 166,
+            "rank": 493
+        },
+        {
+            "title": "Summary Ranges",
+            "id": 228,
+            "rank": 497
+        },
+        {
+            "title": "Power of Two",
+            "id": 231,
+            "rank": 501
+        },
+        {
+            "title": "Group Shifted Strings",
+            "id": 249,
+            "rank": 505
+        },
+        {
+            "title": "Count of Smaller Numbers After Self",
+            "id": 315,
+            "rank": 509
+        },
+        {
+            "title": "Combination Sum IV",
+            "id": 377,
+            "rank": 513
+        },
+        {
+            "title": "Find the Difference",
+            "id": 389,
+            "rank": 517
+        },
+        {
+            "title": "Pacific Atlantic Water Flow",
+            "id": 417,
+            "rank": 521
+        },
+        {
+            "title": "Sort Characters By Frequency",
+            "id": 451,
+            "rank": 525
+        },
+        {
+            "title": "Reverse Pairs",
+            "id": 493,
+            "rank": 529
+        },
+        {
+            "title": "Height of Binary Tree After Subtree Removal Queries",
+            "id": 2458,
+            "rank": 533
+        },
+        {
+            "title": "Find Duplicate Subtrees",
+            "id": 652,
+            "rank": 537
+        },
+        {
+            "title": "Daily Temperatures",
+            "id": 739,
+            "rank": 541
+        },
+        {
+            "title": "Race Car",
+            "id": 818,
+            "rank": 545
+        },
+        {
+            "title": "Peak Index in a Mountain Array",
+            "id": 852,
+            "rank": 549
+        },
+        {
+            "title": "Transpose Matrix",
+            "id": 867,
+            "rank": 553
+        },
+        {
+            "title": "Fruit Into Baskets",
+            "id": 904,
+            "rank": 557
+        },
+        {
+            "title": "Minimum Domino Rotations For Equal Row",
+            "id": 1007,
+            "rank": 561
+        },
+        {
+            "title": "Rank Transform of an Array",
+            "id": 1331,
+            "rank": 565
+        },
+        {
+            "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+            "id": 1438,
+            "rank": 569
+        },
+        {
+            "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+            "id": 1526,
+            "rank": 573
+        },
+        {
+            "title": "Split a String Into the Max Number of Unique Substrings",
+            "id": 1593,
+            "rank": 577
+        },
+        {
+            "title": "Richest Customer Wealth",
+            "id": 1672,
+            "rank": 581
+        },
+        {
+            "title": "Sentence Similarity III",
+            "id": 1813,
+            "rank": 585
+        },
+        {
+            "title": "Single-Threaded CPU",
+            "id": 1834,
+            "rank": 589
+        },
+        {
+            "title": "Minimum Interval to Include Each Query",
+            "id": 1851,
+            "rank": 593
+        },
+        {
+            "title": "Merge Two Sorted Lists",
+            "id": 21,
+            "rank": 597
+        },
+        {
+            "title": "Kth Largest Element in an Array",
+            "id": 215,
+            "rank": 601
+        },
+        {
+            "title": "Ransom Note",
+            "id": 383,
+            "rank": 605
+        },
+        {
+            "title": "Count Primes",
+            "id": 204,
+            "rank": 609
+        },
+        {
+            "title": "Rotting Oranges",
+            "id": 994,
+            "rank": 613
+        },
+        {
+            "title": "Max Consecutive Ones III",
+            "id": 1004,
+            "rank": 617
+        },
+        {
+            "title": "Is Subsequence",
+            "id": 392,
+            "rank": 621
+        },
+        {
+            "title": "Big Countries",
+            "id": 595,
+            "rank": 625
+        },
+        {
+            "title": "Product of Array Except Self",
+            "id": 238,
+            "rank": 629
+        },
+        {
+            "title": "Check if Array Is Sorted and Rotated",
+            "id": 1752,
+            "rank": 633
+        },
+        {
+            "title": "Counter",
+            "id": 2620,
+            "rank": 637
+        },
+        {
+            "title": "Average Time of Process per Machine",
+            "id": 1661,
+            "rank": 641
+        },
+        {
+            "title": "Managers with at Least 5 Direct Reports",
+            "id": 570,
+            "rank": 645
+        },
+        {
+            "title": "Middle of the Linked List",
+            "id": 876,
+            "rank": 649
+        },
+        {
+            "title": "Remove Nth Node From End of List",
+            "id": 19,
+            "rank": 653
+        },
+        {
+            "title": "Reverse Nodes in k-Group",
+            "id": 25,
+            "rank": 657
+        },
+        {
+            "title": "Set Matrix Zeroes",
+            "id": 73,
+            "rank": 661
+        },
+        {
+            "title": "Greatest Common Divisor of Strings",
+            "id": 1071,
+            "rank": 665
+        },
+        {
+            "title": "Jewels and Stones",
+            "id": 771,
+            "rank": 669
+        },
+        {
+            "title": "Integer to English Words",
+            "id": 273,
+            "rank": 673
+        },
+        {
+            "title": "Edit Distance",
+            "id": 72,
+            "rank": 677
+        },
+        {
+            "title": "Combine Two Tables",
+            "id": 175,
+            "rank": 681
+        },
+        {
+            "title": "Word Ladder",
+            "id": 127,
+            "rank": 685
+        },
+        {
+            "title": "The kth Factor of n",
             "id": 1492,
-            "rank": 41
+            "rank": 689
         },
         {
-            "title": "Network Delay Time",
-            "id": 744,
-            "rank": 42
+            "title": "Surrounded Regions",
+            "id": 130,
+            "rank": 693
         },
         {
-            "title": "Number of Matching Subsequences",
-            "id": 808,
-            "rank": 43
+            "title": "Time Taken to Cross the Door",
+            "id": 2534,
+            "rank": 697
         },
         {
-            "title": "Valid Square",
-            "id": 593,
-            "rank": 44
+            "title": "Fizz Buzz",
+            "id": 412,
+            "rank": 701
         },
         {
-            "title": "Binary Tree Longest Consecutive Sequence",
-            "id": 298,
-            "rank": 45
+            "title": "Maximum Product Subarray",
+            "id": 152,
+            "rank": 705
         },
         {
-            "title": "X of a Kind in a Deck of Cards",
-            "id": 950,
-            "rank": 46
+            "title": "Flatten Binary Tree to Linked List",
+            "id": 114,
+            "rank": 709
         },
         {
-            "title": "Parallel Courses",
-            "id": 1101,
-            "rank": 47
+            "title": "Sudoku Solver",
+            "id": 37,
+            "rank": 713
         },
         {
-            "title": "Reorganize String",
-            "id": 778,
-            "rank": 48
+            "title": "Copy List with Random Pointer",
+            "id": 138,
+            "rank": 717
         },
         {
-            "title": "Minimum Window Substring",
-            "id": 76,
-            "rank": 49
+            "title": "Partition List",
+            "id": 86,
+            "rank": 721
+        },
+        {
+            "title": "Find Leaves of Binary Tree",
+            "id": 366,
+            "rank": 725
+        },
+        {
+            "title": "Word Search",
+            "id": 79,
+            "rank": 729
+        },
+        {
+            "title": "Same Tree",
+            "id": 100,
+            "rank": 733
+        },
+        {
+            "title": "Minimum Path Sum",
+            "id": 64,
+            "rank": 737
+        },
+        {
+            "title": "Longest Common Subsequence",
+            "id": 1143,
+            "rank": 741
+        },
+        {
+            "title": "Vertical Order Traversal of a Binary Tree",
+            "id": 987,
+            "rank": 745
+        },
+        {
+            "title": "Remove Duplicates from Sorted List",
+            "id": 83,
+            "rank": 749
+        },
+        {
+            "title": "Best Time to Buy and Sell Stock II",
+            "id": 122,
+            "rank": 753
         },
         {
             "title": "House Robber III",
             "id": 337,
-            "rank": 50
+            "rank": 757
+        },
+        {
+            "title": "Restore IP Addresses",
+            "id": 93,
+            "rank": 761
+        },
+        {
+            "title": "Return Length of Arguments Passed",
+            "id": 2703,
+            "rank": 765
+        },
+        {
+            "title": "Rotate List",
+            "id": 61,
+            "rank": 769
+        },
+        {
+            "title": "Rotate String",
+            "id": 796,
+            "rank": 773
+        },
+        {
+            "title": "Symmetric Tree",
+            "id": 101,
+            "rank": 777
+        },
+        {
+            "title": "First Bad Version",
+            "id": 278,
+            "rank": 781
+        },
+        {
+            "title": "Add Digits",
+            "id": 258,
+            "rank": 785
+        },
+        {
+            "title": "Number of Good Pairs",
+            "id": 1512,
+            "rank": 789
+        },
+        {
+            "title": "Evaluate Reverse Polish Notation",
+            "id": 150,
+            "rank": 793
+        },
+        {
+            "title": "Minimum Remove to Make Valid Parentheses",
+            "id": 1249,
+            "rank": 797
+        },
+        {
+            "title": "Accounts Merge",
+            "id": 721,
+            "rank": 801
+        },
+        {
+            "title": "Palindrome Linked List",
+            "id": 234,
+            "rank": 805
+        },
+        {
+            "title": "Move Zeroes",
+            "id": 283,
+            "rank": 809
+        },
+        {
+            "title": "Find First and Last Position of Element in Sorted Array",
+            "id": 34,
+            "rank": 813
+        },
+        {
+            "title": "Minimum Moves to Equal Array Elements",
+            "id": 453,
+            "rank": 817
+        },
+        {
+            "title": "Missing Number",
+            "id": 268,
+            "rank": 821
+        },
+        {
+            "title": "Largest Number",
+            "id": 179,
+            "rank": 825
+        },
+        {
+            "title": "Binary Search",
+            "id": 704,
+            "rank": 829
+        },
+        {
+            "title": "Contiguous Array",
+            "id": 525,
+            "rank": 833
+        },
+        {
+            "title": "Invert Binary Tree",
+            "id": 226,
+            "rank": 837
+        },
+        {
+            "title": "Apply Transform Over Each Element in Array",
+            "id": 2635,
+            "rank": 841
+        },
+        {
+            "title": "Number of 1 Bits",
+            "id": 191,
+            "rank": 845
+        },
+        {
+            "title": "Reorganize String",
+            "id": 767,
+            "rank": 849
+        },
+        {
+            "title": "Validate Binary Search Tree",
+            "id": 98,
+            "rank": 853
+        },
+        {
+            "title": "Design a Stack With Increment Operation",
+            "id": 1381,
+            "rank": 857
+        },
+        {
+            "title": "Valid Palindrome II",
+            "id": 680,
+            "rank": 861
+        },
+        {
+            "title": "Kth Largest Element in a Stream",
+            "id": 703,
+            "rank": 865
+        },
+        {
+            "title": "Find All Anagrams in a String",
+            "id": 438,
+            "rank": 869
+        },
+        {
+            "title": "Odd Even Linked List",
+            "id": 328,
+            "rank": 873
+        },
+        {
+            "title": "Network Delay Time",
+            "id": 743,
+            "rank": 877
+        },
+        {
+            "title": "Article Views I",
+            "id": 1148,
+            "rank": 881
+        },
+        {
+            "title": "Integer to Roman",
+            "id": 12,
+            "rank": 885
+        },
+        {
+            "title": "Isomorphic Strings",
+            "id": 205,
+            "rank": 889
+        },
+        {
+            "title": "All Nodes Distance K in Binary Tree",
+            "id": 863,
+            "rank": 893
+        },
+        {
+            "title": "Implement Stack using Queues",
+            "id": 225,
+            "rank": 897
+        },
+        {
+            "title": "Ugly Number",
+            "id": 263,
+            "rank": 901
+        },
+        {
+            "title": "All O`one Data Structure",
+            "id": 432,
+            "rank": 905
+        },
+        {
+            "title": "Next Greater Element I",
+            "id": 496,
+            "rank": 909
+        },
+        {
+            "title": "Find the Maximum Number of Elements in Subset",
+            "id": 3020,
+            "rank": 913
+        },
+        {
+            "title": "Viewers Turned Streamers",
+            "id": 2995,
+            "rank": 917
+        },
+        {
+            "title": "Find Beautiful Indices in the Given Array II",
+            "id": 3008,
+            "rank": 921
+        },
+        {
+            "title": "Text Justification",
+            "id": 68,
+            "rank": 925
+        },
+        {
+            "title": "Coin Change II",
+            "id": 518,
+            "rank": 929
+        },
+        {
+            "title": "Check If Array Pairs Are Divisible by k",
+            "id": 1497,
+            "rank": 933
+        },
+        {
+            "title": "Permutation in String",
+            "id": 567,
+            "rank": 937
+        },
+        {
+            "title": "Contains Duplicate II",
+            "id": 219,
+            "rank": 941
+        },
+        {
+            "title": "Binary Tree Inorder Traversal",
+            "id": 94,
+            "rank": 945
+        },
+        {
+            "title": "Excel Sheet Column Title",
+            "id": 168,
+            "rank": 949
+        },
+        {
+            "title": "Design Search Autocomplete System",
+            "id": 642,
+            "rank": 953
+        },
+        {
+            "title": "Maximum Depth of Binary Tree",
+            "id": 104,
+            "rank": 957
+        },
+        {
+            "title": "Critical Connections in a Network",
+            "id": 1192,
+            "rank": 961
+        },
+        {
+            "title": "Remove Duplicates from Sorted Array II",
+            "id": 80,
+            "rank": 965
+        },
+        {
+            "title": "Find All Duplicates in an Array",
+            "id": 442,
+            "rank": 969
+        },
+        {
+            "title": "String Compression",
+            "id": 443,
+            "rank": 973
+        },
+        {
+            "title": "Employee Bonus",
+            "id": 577,
+            "rank": 977
+        },
+        {
+            "title": "Remove All Adjacent Duplicates In String",
+            "id": 1047,
+            "rank": 981
+        },
+        {
+            "title": "Ant on the Boundary",
+            "id": 3028,
+            "rank": 985
+        },
+        {
+            "title": "Minimum String Length After Removing Substrings",
+            "id": 2696,
+            "rank": 989
+        },
+        {
+            "title": "K Closest Points to Origin",
+            "id": 973,
+            "rank": 993
+        },
+        {
+            "title": "Subtree of Another Tree",
+            "id": 572,
+            "rank": 997
+        },
+        {
+            "title": "Intersection of Two Linked Lists",
+            "id": 160,
+            "rank": 1001
+        },
+        {
+            "title": "Lowest Common Ancestor of a Binary Search Tree",
+            "id": 235,
+            "rank": 1005
+        },
+        {
+            "title": "Min Cost Climbing Stairs",
+            "id": 746,
+            "rank": 1009
+        },
+        {
+            "title": "Remove Invalid Parentheses",
+            "id": 301,
+            "rank": 1013
+        },
+        {
+            "title": "Minimum Number of Swaps to Make the String Balanced",
+            "id": 1963,
+            "rank": 1017
+        },
+        {
+            "title": "Divide Two Integers",
+            "id": 29,
+            "rank": 1021
+        },
+        {
+            "title": "Remove Duplicates from Sorted List II",
+            "id": 82,
+            "rank": 1025
+        },
+        {
+            "title": "Find Minimum in Rotated Sorted Array",
+            "id": 153,
+            "rank": 1029
+        },
+        {
+            "title": "Top K Frequent Elements",
+            "id": 347,
+            "rank": 1033
+        },
+        {
+            "title": "Minimum Add to Make Parentheses Valid",
+            "id": 921,
+            "rank": 1037
+        },
+        {
+            "title": "The Number of the Smallest Unoccupied Chair",
+            "id": 1942,
+            "rank": 1041
+        },
+        {
+            "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+            "id": 2035,
+            "rank": 1045
+        },
+        {
+            "title": "Sort List",
+            "id": 148,
+            "rank": 1049
+        },
+        {
+            "title": "Max Area of Island",
+            "id": 695,
+            "rank": 1053
+        },
+        {
+            "title": "Divide Intervals Into Minimum Number of Groups",
+            "id": 2406,
+            "rank": 1057
+        },
+        {
+            "title": "Design Add and Search Words Data Structure",
+            "id": 211,
+            "rank": 1061
+        },
+        {
+            "title": "Tweet Counts Per Frequency",
+            "id": 1348,
+            "rank": 1065
+        },
+        {
+            "title": "Remove Boxes",
+            "id": 546,
+            "rank": 1069
+        },
+        {
+            "title": "Binary Tree Level Order Traversal",
+            "id": 102,
+            "rank": 1073
+        },
+        {
+            "title": "Last Stone Weight",
+            "id": 1046,
+            "rank": 1077
+        },
+        {
+            "title": "Employees Whose Manager Left the Company",
+            "id": 1978,
+            "rank": 1081
+        },
+        {
+            "title": "Smallest Range Covering Elements from K Lists",
+            "id": 632,
+            "rank": 1085
+        },
+        {
+            "title": "Find X-Sum of All K-Long Subarrays I",
+            "id": 3318,
+            "rank": 1089
+        },
+        {
+            "title": "Make Array Non-decreasing or Non-increasing",
+            "id": 2263,
+            "rank": 1093
+        },
+        {
+            "title": "Maximal Score After Applying K Operations",
+            "id": 2530,
+            "rank": 1097
+        },
+        {
+            "title": "Type of Triangle",
+            "id": 3024,
+            "rank": 1101
+        },
+        {
+            "title": "Squares of a Sorted Array",
+            "id": 977,
+            "rank": 1105
+        },
+        {
+            "title": "Implement Queue using Stacks",
+            "id": 232,
+            "rank": 1109
+        },
+        {
+            "title": "Separate Black and White Balls",
+            "id": 2938,
+            "rank": 1113
+        },
+        {
+            "title": "Asteroid Collision",
+            "id": 735,
+            "rank": 1117
+        },
+        {
+            "title": "Multiply Strings",
+            "id": 43,
+            "rank": 1121
+        },
+        {
+            "title": "Find Pivot Index",
+            "id": 724,
+            "rank": 1125
+        },
+        {
+            "title": "Longest Happy String",
+            "id": 1405,
+            "rank": 1129
+        },
+        {
+            "title": "Third Maximum Number",
+            "id": 414,
+            "rank": 1133
+        },
+        {
+            "title": "K-th Largest Perfect Subtree Size in Binary Tree",
+            "id": 3319,
+            "rank": 1137
+        },
+        {
+            "title": "Maximum Swap",
+            "id": 670,
+            "rank": 1141
+        },
+        {
+            "title": "Check if DFS Strings Are Palindromes",
+            "id": 3327,
+            "rank": 1145
+        },
+        {
+            "title": "Parsing A Boolean Expression",
+            "id": 1106,
+            "rank": 1149
+        },
+        {
+            "title": "Jump Game VI",
+            "id": 1696,
+            "rank": 1153
+        },
+        {
+            "title": "Count Number of Maximum Bitwise-OR Subsets",
+            "id": 2044,
+            "rank": 1157
+        },
+        {
+            "title": "Game Play Analysis IV",
+            "id": 550,
+            "rank": 1161
+        },
+        {
+            "title": "Subarray Sums Divisible by K",
+            "id": 974,
+            "rank": 1165
+        },
+        {
+            "title": "Interval List Intersections",
+            "id": 986,
+            "rank": 1169
+        },
+        {
+            "title": "Count Number of Pairs With Absolute Difference K",
+            "id": 2006,
+            "rank": 1173
+        },
+        {
+            "title": "Next Closest Time",
+            "id": 681,
+            "rank": 1177
+        },
+        {
+            "title": "Valid Perfect Square",
+            "id": 367,
+            "rank": 1181
+        },
+        {
+            "title": "Cousins in Binary Tree II",
+            "id": 2641,
+            "rank": 1185
+        },
+        {
+            "title": "Minimum Height Trees",
+            "id": 310,
+            "rank": 1189
+        },
+        {
+            "title": "Make Sum Divisible by P",
+            "id": 1590,
+            "rank": 1193
+        },
+        {
+            "title": "Time Based Key-Value Store",
+            "id": 981,
+            "rank": 1197
+        },
+        {
+            "title": "Flatten Nested List Iterator",
+            "id": 341,
+            "rank": 1201
+        },
+        {
+            "title": "Remove Sub-Folders from the Filesystem",
+            "id": 1233,
+            "rank": 1205
+        },
+        {
+            "title": "Lexicographically Smallest Beautiful String",
+            "id": 2663,
+            "rank": 1209
+        },
+        {
+            "title": "Kth Smallest Element in a BST",
+            "id": 230,
+            "rank": 1213
+        },
+        {
+            "title": "To Lower Case",
+            "id": 709,
+            "rank": 1217
+        },
+        {
+            "title": "Sender With Largest Word Count",
+            "id": 2284,
+            "rank": 1221
+        },
+        {
+            "title": "Minimum Division Operations to Make Array Non Decreasing",
+            "id": 3326,
+            "rank": 1225
+        },
+        {
+            "title": "Count Square Submatrices with All Ones",
+            "id": 1277,
+            "rank": 1229
+        },
+        {
+            "title": "First Unique Character in a String",
+            "id": 387,
+            "rank": 1233
+        },
+        {
+            "title": "Student Attendance Record II",
+            "id": 552,
+            "rank": 1237
+        },
+        {
+            "title": "Reconstruct Itinerary",
+            "id": 332,
+            "rank": 1241
+        },
+        {
+            "title": "Alien Dictionary",
+            "id": 269,
+            "rank": 1245
+        },
+        {
+            "title": "Longest Palindrome",
+            "id": 409,
+            "rank": 1249
+        },
+        {
+            "title": "Can Place Flowers",
+            "id": 605,
+            "rank": 1253
+        },
+        {
+            "title": "Maximum Number of Moves in a Grid",
+            "id": 2684,
+            "rank": 1257
+        },
+        {
+            "title": "Repeated Substring Pattern",
+            "id": 459,
+            "rank": 1261
+        },
+        {
+            "title": "Range Sum of BST",
+            "id": 938,
+            "rank": 1265
+        },
+        {
+            "title": "Monthly Transactions I",
+            "id": 1193,
+            "rank": 1269
+        },
+        {
+            "title": "Minimum Window Substring",
+            "id": 76,
+            "rank": 1273
+        },
+        {
+            "title": "Lowest Common Ancestor of a Binary Tree",
+            "id": 236,
+            "rank": 1277
+        },
+        {
+            "title": "Seat Reservation Manager",
+            "id": 1845,
+            "rank": 1281
+        },
+        {
+            "title": "Best Time to Buy and Sell Stock III",
+            "id": 123,
+            "rank": 1285
+        },
+        {
+            "title": "Minimum Total Distance Traveled",
+            "id": 2463,
+            "rank": 1289
+        },
+        {
+            "title": "Online Stock Span",
+            "id": 901,
+            "rank": 1293
+        },
+        {
+            "title": "Graph Valid Tree",
+            "id": 261,
+            "rank": 1297
+        },
+        {
+            "title": "Count Substrings With K-Frequency Characters I",
+            "id": 3325,
+            "rank": 1301
+        },
+        {
+            "title": "Basic Calculator III",
+            "id": 772,
+            "rank": 1305
+        },
+        {
+            "title": "Binary Tree Vertical Order Traversal",
+            "id": 314,
+            "rank": 1309
+        },
+        {
+            "title": "String Compression III",
+            "id": 3163,
+            "rank": 1313
+        },
+        {
+            "title": "Arithmetic Slices II - Subsequence",
+            "id": 446,
+            "rank": 1317
+        },
+        {
+            "title": "Unique Paths II",
+            "id": 63,
+            "rank": 1321
+        },
+        {
+            "title": "Linked List Random Node",
+            "id": 382,
+            "rank": 1325
+        },
+        {
+            "title": "Minimum Number of Changes to Make Binary String Beautiful",
+            "id": 2914,
+            "rank": 1329
+        },
+        {
+            "title": "Continuous Subarray Sum",
+            "id": 523,
+            "rank": 1333
+        },
+        {
+            "title": "Average Selling Price",
+            "id": 1251,
+            "rank": 1337
+        },
+        {
+            "title": "Convert Object to JSON String",
+            "id": 2633,
+            "rank": 1341
+        },
+        {
+            "title": "Subarray Product Less Than K",
+            "id": 713,
+            "rank": 1345
+        },
+        {
+            "title": "Sort Array By Parity",
+            "id": 905,
+            "rank": 1349
+        },
+        {
+            "title": "Largest Combination With Bitwise AND Greater Than Zero",
+            "id": 2275,
+            "rank": 1353
+        },
+        {
+            "title": "Min Stack",
+            "id": 155,
+            "rank": 1357
+        },
+        {
+            "title": "Minimum Operations to Reduce X to Zero",
+            "id": 1658,
+            "rank": 1361
+        },
+        {
+            "title": "Partition Array for Maximum Sum",
+            "id": 1043,
+            "rank": 1365
+        },
+        {
+            "title": "Minimum Array End",
+            "id": 3133,
+            "rank": 1369
+        },
+        {
+            "title": "Maximum Points You Can Obtain from Cards",
+            "id": 1423,
+            "rank": 1373
+        },
+        {
+            "title": "Shortest Subarray With OR at Least K II",
+            "id": 3097,
+            "rank": 1377
+        },
+        {
+            "title": "Adjacent Increasing Subarrays Detection II",
+            "id": 3350,
+            "rank": 1381
+        },
+        {
+            "title": "Maximum Frequency of an Element After Performing Operations I",
+            "id": 3346,
+            "rank": 1385
+        },
+        {
+            "title": "Maximum Frequency of an Element After Performing Operations II",
+            "id": 3347,
+            "rank": 1389
+        },
+        {
+            "title": "Wiggle Sort",
+            "id": 280,
+            "rank": 1393
+        },
+        {
+            "title": "Expression Add Operators",
+            "id": 282,
+            "rank": 1397
+        },
+        {
+            "title": "Prime Subtraction Operation",
+            "id": 2601,
+            "rank": 1401
+        },
+        {
+            "title": "Adjacent Increasing Subarrays Detection I",
+            "id": 3349,
+            "rank": 1405
+        },
+        {
+            "title": "Sum of Good Subsequences",
+            "id": 3351,
+            "rank": 1409
+        },
+        {
+            "title": "Most Beautiful Item for Each Query",
+            "id": 2070,
+            "rank": 1413
+        },
+        {
+            "title": "Count the Number of Fair Pairs",
+            "id": 2563,
+            "rank": 1417
+        },
+        {
+            "title": "Duplicate Zeros",
+            "id": 1089,
+            "rank": 1421
+        },
+        {
+            "title": "Minimum Size Subarray Sum",
+            "id": 209,
+            "rank": 1425
+        },
+        {
+            "title": "Alternating Groups II",
+            "id": 3208,
+            "rank": 1429
+        },
+        {
+            "title": "Exclusive Time of Functions",
+            "id": 636,
+            "rank": 1433
+        },
+        {
+            "title": "Minimum Number of Steps to Make Two Strings Anagram",
+            "id": 1347,
+            "rank": 1437
+        },
+        {
+            "title": "Binary Tree Zigzag Level Order Traversal",
+            "id": 103,
+            "rank": 1441
+        },
+        {
+            "title": "Merge Two Binary Trees",
+            "id": 617,
+            "rank": 1445
+        },
+        {
+            "title": "Minimized Maximum of Products Distributed to Any Store",
+            "id": 2064,
+            "rank": 1449
+        },
+        {
+            "title": "Predict the Winner",
+            "id": 486,
+            "rank": 1453
+        },
+        {
+            "title": "Maximum Employees to Be Invited to a Meeting",
+            "id": 2127,
+            "rank": 1457
+        },
+        {
+            "title": "Two Sum II - Input Array Is Sorted",
+            "id": 167,
+            "rank": 1461
+        },
+        {
+            "title": "Find the Town Judge",
+            "id": 997,
+            "rank": 1465
+        },
+        {
+            "title": "Find the Power of K-Size Subarrays I",
+            "id": 3254,
+            "rank": 1469
+        },
+        {
+            "title": "Shortest Unsorted Continuous Subarray",
+            "id": 581,
+            "rank": 1473
+        },
+        {
+            "title": "Customer Placing the Largest Number of Orders",
+            "id": 586,
+            "rank": 1477
+        },
+        {
+            "title": "Redundant Connection",
+            "id": 684,
+            "rank": 1481
+        },
+        {
+            "title": "Kth Missing Positive Number",
+            "id": 1539,
+            "rank": 1485
+        },
+        {
+            "title": "K-th Symbol in Grammar",
+            "id": 779,
+            "rank": 1489
+        },
+        {
+            "title": "Shortest Subarray with Sum at Least K",
+            "id": 862,
+            "rank": 1493
+        },
+        {
+            "title": "Zero Array Transformation II",
+            "id": 3356,
+            "rank": 1497
+        },
+        {
+            "title": "Wildcard Matching",
+            "id": 44,
+            "rank": 1501
+        },
+        {
+            "title": "Zero Array Transformation I",
+            "id": 3355,
+            "rank": 1505
+        },
+        {
+            "title": "Course Schedule II",
+            "id": 210,
+            "rank": 1509
+        },
+        {
+            "title": "Defuse the Bomb",
+            "id": 1652,
+            "rank": 1513
+        },
+        {
+            "title": "Clone Graph",
+            "id": 133,
+            "rank": 1517
+        },
+        {
+            "title": "Maximum Sum of Distinct Subarrays With Length K",
+            "id": 2461,
+            "rank": 1521
+        },
+        {
+            "title": "Kids With the Greatest Number of Candies",
+            "id": 1431,
+            "rank": 1525
+        },
+        {
+            "title": "Validate Stack Sequences",
+            "id": 946,
+            "rank": 1529
+        },
+        {
+            "title": "Take K of Each Character From Left and Right",
+            "id": 2516,
+            "rank": 1533
+        },
+        {
+            "title": "Shortest Distance from All Buildings",
+            "id": 317,
+            "rank": 1537
+        },
+        {
+            "title": "Add Strings",
+            "id": 415,
+            "rank": 1541
+        },
+        {
+            "title": "Maximum Gap",
+            "id": 164,
+            "rank": 1545
+        },
+        {
+            "title": "Count Unguarded Cells in the Grid",
+            "id": 2257,
+            "rank": 1549
+        },
+        {
+            "title": "Filling Bookcase Shelves",
+            "id": 1105,
+            "rank": 1553
+        },
+        {
+            "title": "Bus Routes",
+            "id": 815,
+            "rank": 1557
+        },
+        {
+            "title": "Prime Palindrome",
+            "id": 866,
+            "rank": 1561
+        },
+        {
+            "title": "Furthest Building You Can Reach",
+            "id": 1642,
+            "rank": 1565
+        },
+        {
+            "title": "Valid Sudoku",
+            "id": 36,
+            "rank": 1569
+        },
+        {
+            "title": "24 Game",
+            "id": 679,
+            "rank": 1573
+        },
+        {
+            "title": "Flip Columns For Maximum Number of Equal Rows",
+            "id": 1072,
+            "rank": 1577
+        },
+        {
+            "title": "Find K Closest Elements",
+            "id": 658,
+            "rank": 1581
         }
     ],
     "Apple": [
